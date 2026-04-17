@@ -1,0 +1,31 @@
+sqlglot/parsers/doris.py
+  3e8c55187cd91c0a 5,30,32-33,38
+sqlglot/dialects/dialect.py
+  3e8c55187cd91c0a 1601,1610-1616
+tests/dialects/test_doris.py
+  3e8c55187cd91c0a 108-132
+tests/dialects/test_starrocks.py
+  3e8c55187cd91c0a 145-169
+sqlglot/parsers/starrocks.py
+  3e8c55187cd91c0a 5,13-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.0",
+  "base_commit_sha": "a521da1c8690f68e96d84ec9f614d97deab2fae6",
+  "prompts": {
+    "3e8c55187cd91c0a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "76b461a9-4741-411b-a6fb-0ef47aabd319",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "eleanor.zhu",
+      "messages": [],
+      "total_additions": 99,
+      "total_deletions": 33,
+      "accepted_lines": 68,
+      "overriden_lines": 0
+    }
+  }
+}
